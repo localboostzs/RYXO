@@ -4,7 +4,27 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#060714" />
-  <meta name="description" content="RYXO — Energy taste. Zero caffeine. First drop April 2027." />
+  <meta name="description" content="RYXO is a caffeine-free energy drink brand from Switzerland. Intense energy taste, zero caffeine. First drop April 2027." />
+  <link rel="canonical" href="https://ryxoenergy.com/" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="favicon-192.png">
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="RYXO" />
+  <meta property="og:title" content="RYXO - Energy Taste Without Caffeine" />
+  <meta property="og:description" content="RYXO is a caffeine-free energy drink brand from Switzerland. Intense energy taste, zero caffeine. First drop April 2027." />
+  <meta property="og:url" content="https://ryxoenergy.com/" />
+  <meta property="og:image" content="https://ryxoenergy.com/img/og-image.jpg" />
+  <meta property="og:image:width" content="600" />
+  <meta property="og:image:height" content="315" />
+  <meta property="og:image:alt" content="RYXO Original can — energy taste, zero caffeine" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="RYXO - Energy Taste Without Caffeine" />
+  <meta name="twitter:description" content="RYXO is a caffeine-free energy drink brand from Switzerland. Intense energy taste, zero caffeine. First drop April 2027." />
+  <meta name="twitter:image" content="https://ryxoenergy.com/img/og-image.jpg" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://ryxoenergy.com/#organization","name":"RYXO","alternateName":"RYXO Energy","url":"https://ryxoenergy.com/","logo":{"@type":"ImageObject","url":"https://ryxoenergy.com/favicon-192.png","width":192,"height":192},"image":"https://ryxoenergy.com/img/og-image.jpg","description":"RYXO is a caffeine-free energy drink brand from Switzerland.","slogan":"Energy taste. Zero caffeine.","sameAs":["https://www.instagram.com/ryxoenergy","https://www.tiktok.com/@ryxoenergy"]},{"@type":"WebSite","@id":"https://ryxoenergy.com/#website","url":"https://ryxoenergy.com/","name":"RYXO","alternateName":"RYXO Energy","inLanguage":"en","publisher":{"@id":"https://ryxoenergy.com/#organization"}}]}</script>
   <title>RYXO - Energy Taste Without Caffeine</title>
   <link rel="icon" href="favicon.ico" sizes="32x32">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
@@ -244,7 +264,7 @@
       <span class="anchor" id="about" style="top:calc((var(--jh) - 100svh) * .73)"></span>
       <div class="stage" id="stage">
         <div class="fallbackCans" aria-hidden="true"><img src="img/can-original-front.webp" alt="" style="max-width:320px"></div>
-        <article class="panel" id="p-hero"><p class="kicker mono rv">Born in Switzerland · Built for everywhere</p><h1 class="split">ENERGY TASTE.<br><span class="gradient">ZERO CAFFEINE.</span></h1><p class="sub rv">The drink for when you want the Energy experience — without another caffeine hit.</p><div class="drop mono rv">First drop — April 2027</div><div class="actions rv"><a class="button primary" href="#join">Join the waitlist</a><a class="button" href="#why">Discover RYXO</a></div></article>
+        <article class="panel" id="p-hero"><p class="kicker mono rv">Born in Switzerland · Built for everywhere</p><h1 class="split"><span class="sr-only">RYXO – </span>ENERGY TASTE.<br><span class="gradient">ZERO CAFFEINE.</span></h1><p class="sub rv">The drink for when you want the Energy experience — without another caffeine hit.</p><div class="drop mono rv">First drop — April 2027</div><div class="actions rv"><a class="button primary" href="#join">Join the waitlist</a><a class="button" href="#why">Discover RYXO</a></div></article>
         <article class="panel" id="p-why"><p class="eyebrow mono rv">Why RYXO</p><h2 class="split">YOU LOVE ENERGY.<br>NOT ALWAYS THE <span class="gradient">CAFFEINE.</span></h2><p class="body optional rv">You love the taste, the can, the ritual and the feeling of an Energy drink. But another caffeine hit does not always fit the moment. RYXO is being created for that space.</p><div class="pFacts"><div class="rv">The taste.</div><div class="rv">The experience.</div><div class="rv"><span class="gradient">0 mg caffeine.</span></div></div></article>
         <article class="panel" id="p-about"><p class="eyebrow mono rv">The idea</p><h2 class="split">SO, WHAT IS RYXO?</h2><p class="body lead rv">RYXO is a new caffeine-free drink brand built around one simple idea: you shouldn't need caffeine just to enjoy the Energy experience.</p><p class="body optional rv" style="margin-top:0">We're currently creating the first RYXO drink. It is being designed to be intense, modern and best served cold from the can — for daytime, late nights and every moment in between.</p><ul class="list"><li class="rv">0 mg caffeine</li><li class="rv">Intense, modern taste</li><li class="rv">Made for the can</li><li class="rv">A lifestyle drink, not a compromise</li></ul></article>
         <div class="scrollHint mono" id="scrollHint">Scroll to discover ↓</div>
@@ -408,7 +428,7 @@
               wi.textContent = p; w.appendChild(wi); frag.appendChild(w);
             });
             ch.parentNode.replaceChild(frag, ch);
-          } else if (ch.nodeType === 1 && ch.tagName !== 'BR') {
+          } else if (ch.nodeType === 1 && ch.tagName !== 'BR' && !ch.classList.contains('sr-only')) {
             var g = grad || ch.classList.contains('gradient');
             if (ch.classList.contains('gradient')) ch.classList.remove('gradient');
             wrapWords(ch, g, counter);
