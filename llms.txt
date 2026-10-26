@@ -1,23 +1,34 @@
 # RYXO
 
-> RYXO is a caffeine-free energy drink brand from Switzerland. Energy taste, 0 mg caffeine. Pre-launch: the first drop (001) is planned for April 2027 and launch dates may change.
+> RYXO is a caffeine-free energy drink brand from Switzerland. Energy taste, 0 mg caffeine. Pre-launch: the first drop (001) is planned for April 2027 and launch dates may change. (Deutsch: RYXO ist eine koffeinfreie Energy-Drink-Marke aus der Schweiz.)
 
 ## Key facts
 
 - Brand name: RYXO (also written RYXO Energy)
-- Category: caffeine-free energy drink
+- Category: caffeine-free energy drink / koffeinfreier Energy Drink
 - Origin: Switzerland ("Born in Switzerland. Built for everywhere.")
 - Status: pre-launch, not on sale yet
 - Planned first drop: April 2027
 - Current lineup: Tropical, Berry, Original, White Citrus, Watermelon (500 ml cans)
+- Languages: English and German
 - Website: https://ryxoenergy.com/
 - Instagram: https://www.instagram.com/ryxoenergy
 - TikTok: https://www.tiktok.com/@ryxoenergy
 - Contact: contact@businessjourney26.com
 
-## Pages
+## Pages (English)
 
 - [Home](https://ryxoenergy.com/): what RYXO is, why a caffeine-free energy drink, the flavours, the first drop and the waitlist
 - [FAQ](https://ryxoenergy.com/#faq): short answers about caffeine, launch date, flavours and the waitlist
-- [Privacy Policy](https://ryxoenergy.com/privacy.html)
-- [Legal Notice](https://ryxoenergy.com/legal.html)
+- [Caffeine-free energy drinks explained](https://ryxoenergy.com/caffeine-free-energy-drink/): what they are, why people choose them, how to read the label
+- [Caffeine and sleep](https://ryxoenergy.com/caffeine-and-sleep/): what EFSA says about caffeine, sleep and safe amounts
+- [Privacy Policy](https://ryxoenergy.com/privacy/)
+- [Legal Notice](https://ryxoenergy.com/legal/)
+
+## Seiten (Deutsch)
+
+- [Startseite](https://ryxoenergy.com/de/)
+- [Koffeinfreie Energy Drinks erklärt](https://ryxoenergy.com/de/koffeinfreier-energy-drink/)
+- [Koffein und Schlaf](https://ryxoenergy.com/de/koffein-und-schlaf/)
+- [Datenschutzerklärung](https://ryxoenergy.com/de/datenschutz/)
+- [Impressum](https://ryxoenergy.com/de/impressum/)
